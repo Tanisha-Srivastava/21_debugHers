@@ -24,3 +24,20 @@ Countless skilled new mothers struggle to re-enter the fast-moving IT industry a
 ✅ **Community Forum** – Peer discussions and career advice.  
 ✅ **Childcare-Friendly Filters** – Find jobs that support **work-life balance**.  
 
+---
+
+ONLINE DISCUSSION FORUM🌻
+
+The SecondSprint Online Discussion Forum is a supportive space where new moms re-entering the IT workforce can share experiences, seek advice, and connect with like-minded professionals. From job search tips to work-life balance strategies, this community empowers mothers to restart their careers with confidence! 🚀
+
+Link to access deployed online discussion forum - https://chatforum-nlh7vftr6-tanisha-srivastavas-projects.vercel.app/
+
+---
+
+COURSE MAPPING PLATFORM💻
+
+In SecondSprint, user-entered preferences—such as skills, topics, or keywords—are processed using TF-IDF to rank and display the most relevant IT courses. This ensures personalized, data-driven recommendations, enabling mothers to efficiently identify upskilling opportunities aligned with their career aspirations.
+
+Link to access deployed course mapping platform - https://tanisha-srivastava.github.io/courses/index.html
+
+
