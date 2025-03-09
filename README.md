@@ -40,4 +40,12 @@ In SecondSprint, user-entered preferences—such as skills, topics, or keywords�
 
 Link to access deployed course mapping platform - https://tanisha-srivastava.github.io/courses/index.html
 
+---
+
+INTERVIEW PREPARATION 👩‍💻
+
+This feature suggests five tailored videos based on job categories, helping users master technical, coding, and behavioral interview skills efficiently. 🚀
+Job-Specific Guidance – Suggests interview resources based on job categories.
+Comprehensive Coverage – Includes technical, coding, and behavioral insights
+
 
